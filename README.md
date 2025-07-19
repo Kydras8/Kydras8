@@ -1,41 +1,46 @@
-# 🐍 Mr. K | Red Teamer in Training
+# 🐍 Mr. K | Red Team Operator in Training
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kydras8&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kydras8&layout=compact&theme=tokyonight)
-
----
+![Visitor Badge](https://komarev.com/ghpvc/?username=Kydras8&style=flat-square&color=brightgreen)
 
 ## 🧨 About Me
-🎓 Cybersecurity student @ Colorado Technical University  
-🎯 Aspiring Red Teamer | OSCP bound | Grey Hat by night  
-💀 Building Kydras — a full Red Team toolkit modularized for mobile, PC, and cloud ops.
+🎓 Cybersecurity Student @ Colorado Technical University  
+💀 Grey Hat by night | Red Team by day  
+🎯 OSCP-bound | Builder of **Kydras Offensive Suite**  
+📱 Mobile Red Team enthusiast  
 
 ---
 
-## 🐉 Kydras Offensive Suite
-| 🛠️ Tool | 📖 Description |
-|----------|-----------------------------|
-| 🕵️‍♂️ [Kydras-OSINT](https://github.com/Kydras8/Kydras-OSINT) | Rapid OSINT & recon toolkit |
-| 💥 [Kydras-Payloads](https://github.com/Kydras8/Kydras-Payloads) | Offensive payloads & droppers |
-| 📁 [Kydras-Playbooks](https://github.com/Kydras8/Kydras-Playbooks) | Red Team playbooks & attack chains |
-| 🕶️ [Kydras-Anonymity](https://github.com/Kydras8/Kydras-Anonymity) | Operator anonymity toolkit |
-| 📱 [Kydras-Mobile-Termux](https://github.com/Kydras8/Kydras-Mobile-Termux) | Mobile red teaming with Termux |
+## 🏆 GitHub Stats & Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kydras8&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kydras8&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Kydras8&theme=tokyonight)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Kydras8&theme=onedark)
 
 ---
 
 ## 🎯 OSCP Progress Tracker
-| Section               | Status |
-|------------------------|--------|
-| PWK Lab Progress       | 🟩 30% |
-| Exercises Completed    | 🟩 40% |
-| Buffer Overflows        | 🟩 20% |
-| OSCP Exam Scheduled    | 🔜 Soon |
+| Stage                        | Status     |
+|------------------------------|------------|
+| ✅ PWK Course                | 30% Complete |
+| ✅ Exercises                 | 40% Complete |
+| 🟩 Buffer Overflow           | 20% Complete |
+| ⏳ Exam Scheduled            | Soon        |
 
 ---
 
-## 🕸️ Personal Site
-- 💻 GitHub Pages → [https://kydras8.github.io](https://kydras8.github.io)
+## 🐉 Featured Kydras Projects
+| 🔗 Repo | 💡 Description |
+|---------|----------------|
+| 🕵️‍♂️ [Kydras-OSINT](https://github.com/Kydras8/Kydras-OSINT) | Rapid recon & OSINT cheatsheets |
+| 💥 [Kydras-Payloads](https://github.com/Kydras8/Kydras-Payloads) | Payload templates for labs |
+| 📁 [Kydras-Playbooks](https://github.com/Kydras8/Kydras-Playbooks) | Attack chains & Red Team guides |
+| 🕶️ [Kydras-Anonymity](https://github.com/Kydras8/Kydras-Anonymity) | OPSEC tools and stealth guides |
+| 📱 [Kydras-Mobile-Termux](https://github.com/Kydras8/Kydras-Mobile-Termux) | Mobile offensive tools |
+| ⚡ [Kydras-Pentest-Scripts](https://github.com/Kydras8/Kydras-Pentest-Scripts) | Quick terminal helpers |
+| 📝 [Red-Team-By-Night Blog](https://github.com/Kydras8/Red-Team-By-Night) | Personal Red Team writeups |
 
 ---
 
-> “Nothing is off limits.”
+> **“Nothing is off limits.”**
