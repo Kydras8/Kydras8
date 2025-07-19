@@ -1,54 +1,41 @@
-# 🐍 Mr. K — Red Teamer by Day, Grey Hat by Night
+# 🐍 Mr. K | Red Teamer in Training
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kydras8&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kydras8&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kydras8&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kydras8&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🧨 About Me
-🎓 **Cybersecurity Student @ Colorado Technical University**  
-🎯 **Aspiring Penetration Tester | Red Team Apprentice | OSCP+ Bound**  
-💀 **Grey Hat by Night, Red Teamer by Day**
-
-I’m building my real-world skillset in:
-- 🕵️‍♂️ Offensive OSINT & Recon
-- 🖥️ Payload development
-- 📡 Wireless hacking
-- 🛠️ Mobile red teaming (Termux & Android)
-- 🐍 Python scripting for automation
-
-> “Nothing is off limits.” — Kydras Code
+🎓 Cybersecurity student @ Colorado Technical University  
+🎯 Aspiring Red Teamer | OSCP bound | Grey Hat by night  
+💀 Building Kydras — a full Red Team toolkit modularized for mobile, PC, and cloud ops.
 
 ---
 
-## 🛠️ Tools I Build
-- ✅ [Kydras-OSINT](https://github.com/Kydras8/Kydras-OSINT): OSINT Recon Toolkit
-- ✅ [Kydras-Playbooks](https://github.com/Kydras8/Kydras-Playbooks): Red Team Attack Playbooks
-- ✅ [Kydras-Lite](https://github.com/Kydras8/Kydras-Lite): Basic Offensive Toolkit
-- ✅ [Kydras-Payloads](https://github.com/Kydras8/Kydras-Payloads): Payload Arsenal (WIP)
-## 🐾 Full Kydras Projects:
-- 🕵️‍♂️ [Kydras-OSINT](https://github.com/Kydras8/Kydras-OSINT) — OSINT toolkit
-- 💥 [Kydras-Payloads](https://github.com/Kydras8/Kydras-Payloads) — Payloads & droppers *(Coming Soon)*
-- 🕶️ [Kydras-Anonymity](https://github.com/Kydras8/Kydras-Anonymity) — Mobile stealth tools *(Coming Soon)*
-- 📁 [Kydras-Playbooks](https://github.com/Kydras8/Kydras-Playbooks) — Attack playbooks *(Coming Soon)*
-- 🎒 [Kydras-Lite](https://github.com/Kydras8/Kydras-Lite) — Lite Red Team toolkit
-- 🛠️ [Kydras-Pentest-Scripts](https://github.com/Kydras8/Kydras-Pentest-Scripts) — Useful shell scripts *(Coming Soon)*
-- 📱 [Kydras-Mobile-Termux](https://github.com/Kydras8/Kydras-Mobile-Termux) — Mobile pentesting kit *(Coming Soon)*
+## 🐉 Kydras Offensive Suite
+| 🛠️ Tool | 📖 Description |
+|----------|-----------------------------|
+| 🕵️‍♂️ [Kydras-OSINT](https://github.com/Kydras8/Kydras-OSINT) | Rapid OSINT & recon toolkit |
+| 💥 [Kydras-Payloads](https://github.com/Kydras8/Kydras-Payloads) | Offensive payloads & droppers |
+| 📁 [Kydras-Playbooks](https://github.com/Kydras8/Kydras-Playbooks) | Red Team playbooks & attack chains |
+| 🕶️ [Kydras-Anonymity](https://github.com/Kydras8/Kydras-Anonymity) | Operator anonymity toolkit |
+| 📱 [Kydras-Mobile-Termux](https://github.com/Kydras8/Kydras-Mobile-Termux) | Mobile red teaming with Termux |
 
 ---
 
-## 🚀 Current Focus
-- Building **Kydras Total War Master Pack**
-- Gaining **OSCP+, PEN-300 certs**
-- Growing **professional hacking portfolio**
+## 🎯 OSCP Progress Tracker
+| Section               | Status |
+|------------------------|--------|
+| PWK Lab Progress       | 🟩 30% |
+| Exercises Completed    | 🟩 40% |
+| Buffer Overflows        | 🟩 20% |
+| OSCP Exam Scheduled    | 🔜 Soon |
 
 ---
 
-## 📫 Contact
-- 📧 Email: 8bitlate@gmail.com
-- 💻 GitHub: [Kydras8](https://github.com/Kydras8)
-- 🌐 Personal Site: [kydras8.github.io](https://kydras8.github.io/)
+## 🕸️ Personal Site
+- 💻 GitHub Pages → [https://kydras8.github.io](https://kydras8.github.io)
 
 ---
 
-> “The quieter you become, the more you can hear.”
+> “Nothing is off limits.”
