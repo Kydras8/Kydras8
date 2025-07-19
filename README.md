@@ -26,6 +26,14 @@ I’m building my real-world skillset in:
 - ✅ [Kydras-Playbooks](https://github.com/Kydras8/Kydras-Playbooks): Red Team Attack Playbooks
 - ✅ [Kydras-Lite](https://github.com/Kydras8/Kydras-Lite): Basic Offensive Toolkit
 - ✅ [Kydras-Payloads](https://github.com/Kydras8/Kydras-Payloads): Payload Arsenal (WIP)
+## 🐾 Full Kydras Projects:
+- 🕵️‍♂️ [Kydras-OSINT](https://github.com/Kydras8/Kydras-OSINT) — OSINT toolkit
+- 💥 [Kydras-Payloads](https://github.com/Kydras8/Kydras-Payloads) — Payloads & droppers *(Coming Soon)*
+- 🕶️ [Kydras-Anonymity](https://github.com/Kydras8/Kydras-Anonymity) — Mobile stealth tools *(Coming Soon)*
+- 📁 [Kydras-Playbooks](https://github.com/Kydras8/Kydras-Playbooks) — Attack playbooks *(Coming Soon)*
+- 🎒 [Kydras-Lite](https://github.com/Kydras8/Kydras-Lite) — Lite Red Team toolkit
+- 🛠️ [Kydras-Pentest-Scripts](https://github.com/Kydras8/Kydras-Pentest-Scripts) — Useful shell scripts *(Coming Soon)*
+- 📱 [Kydras-Mobile-Termux](https://github.com/Kydras8/Kydras-Mobile-Termux) — Mobile pentesting kit *(Coming Soon)*
 
 ---
 
