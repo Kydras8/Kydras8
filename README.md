@@ -1,46 +1,23 @@
-# 🐍 Mr. K | Red Team Operator in Training
+# 👋 Welcome to Kydras8's Offensive Toolkit Hub
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=Kydras8&style=flat-square&color=brightgreen)
+![GitHub followers](https://img.shields.io/github/followers/Kydras8?style=social)
+![Red Team Projects](https://img.shields.io/badge/Red%20Team-Operator%20Toolkits-red?style=flat-square)
 
-## 🧨 About Me
-🎓 Cybersecurity Student @ Colorado Technical University  
-💀 Grey Hat by night | Red Team by day  
-🎯 OSCP-bound | Builder of **Kydras Offensive Suite**  
-📱 Mobile Red Team enthusiast  
+## 🚀 Featured Projects
 
----
-
-## 🏆 GitHub Stats & Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kydras8&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kydras8&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=Kydras8&theme=tokyonight)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Kydras8&theme=onedark)
+- [🔥 Kali Red Team Pack](https://github.com/Kydras8/Kali-RedTeam-Pack): Full mobile Kali rig with stealth routing, VNC desktop, payloads, and OSINT tools.
+- [📡 Coming Soon]: Custom OSINT Kits, Phishing Automation, Mobile Payload Arsenal.
 
 ---
 
-## 🎯 OSCP Progress Tracker
-| Stage                        | Status     |
-|------------------------------|------------|
-| ✅ PWK Course                | 30% Complete |
-| ✅ Exercises                 | 40% Complete |
-| 🟩 Buffer Overflow           | 20% Complete |
-| ⏳ Exam Scheduled            | Soon        |
+## 🏆 About Me
+- 🔥 Building **Kydras Offensive Toolkit**  
+- 📱 Mobile-first Red Team setups
+- 🖥️ OSINT, payload engineering, and attack chains from **phone to laptop**
 
 ---
 
-## 🐉 Featured Kydras Projects
-| 🔗 Repo | 💡 Description |
-|---------|----------------|
-| 🕵️‍♂️ [Kydras-OSINT](https://github.com/Kydras8/Kydras-OSINT) | Rapid recon & OSINT cheatsheets |
-| 💥 [Kydras-Payloads](https://github.com/Kydras8/Kydras-Payloads) | Payload templates for labs |
-| 📁 [Kydras-Playbooks](https://github.com/Kydras8/Kydras-Playbooks) | Attack chains & Red Team guides |
-| 🕶️ [Kydras-Anonymity](https://github.com/Kydras8/Kydras-Anonymity) | OPSEC tools and stealth guides |
-| 📱 [Kydras-Mobile-Termux](https://github.com/Kydras8/Kydras-Mobile-Termux) | Mobile offensive tools |
-| ⚡ [Kydras-Pentest-Scripts](https://github.com/Kydras8/Kydras-Pentest-Scripts) | Quick terminal helpers |
-| 📝 [Red-Team-By-Night Blog](https://github.com/Kydras8/Red-Team-By-Night) | Personal Red Team writeups |
+### 📈 GitHub Stats
 
----
-
-> **“Nothing is off limits.”**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kydras8&layout=compact&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kydras8&show_icons=true&theme=dracula)
