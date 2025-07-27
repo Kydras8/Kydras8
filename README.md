@@ -44,6 +44,11 @@
 | 📱 [Mobile Payloads](https://github.com/Kydras8/Kydras-Mobile-Termux) | Termux offensive tools |
 
 ---
+![Bash](https://img.shields.io/badge/Bash-CLI-informational)
+![Python](https://img.shields.io/badge/Python-Scripting-blue)
+![Offensive-Security](https://img.shields.io/badge/Focus-RedTeam-critical)
+![GitHub followers](https://img.shields.io/github/followers/Kydras8?label=Follow&style=social)
+
 
 > 💀 "Nothing is off limits."
 
