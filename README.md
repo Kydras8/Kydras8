@@ -1,4 +1,7 @@
-# 👋 Welcome to Kydras8's Offensive Toolkit Hub
+
+🚨 Red Teamer | Payload Crafter | Offensive Toolkit Builder  
+🧠 Building: `Kydras Total War Master Pack`  
+🔐 Motto:# 👋 Welcome to Kydras8's Offensive Toolkit Hub
 
 ![GitHub followers](https://img.shields.io/github/followers/Kydras8?style=social)
 ![Red Team Projects](https://img.shields.io/badge/Red%20Team-Operator%20Toolkits-red?style=flat-square)
