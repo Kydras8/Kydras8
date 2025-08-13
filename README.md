@@ -90,6 +90,7 @@ I set a **$1,000 GoFundMe** to cover infra + fees and keep releases flowing.
 - GoFundMe: **https://gofund.me/7d85cda2**
 - GitHub: https://github.com/Kydras8
 - (Optional) Website/Blog: https://kydras8.github.io
+- LinkedIn: www.linkedin.com/in/kydras-systems
 
 > **Signal boost helps** — a star, share, or small donation keeps the lights on.
 
