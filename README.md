@@ -1,9 +1,29 @@
 <!-- Banner -->
-<h1 align="center">👁️ Kydras Systems Inc.</h1>
-<p align="center">
-  <strong>Build • Secure • Create</strong><br>
-  Red Team–built, AI-powered lab creating the next generation of <em>security, intelligence, and creative tools</em>.
-</p>
+<table>
+<tr>
+<td width="160" align="center">
+  <!-- Replace with your actual logo URL -->
+  <img src="https://raw.githubusercontent.com/Kydras8/kydras8.github.io/main/assets/kydras-logo.png" width="140" alt="Kydras Systems Inc. Logo"/>
+</td>
+<td>
+
+# 👁️ Kydras Systems Inc.  
+
+**Build • Secure • Create**  
+Red Team–built, AI-powered lab creating the next generation of **security, intelligence, and creative tools**.  
+
+📍 Wyoming S-Corp  
+🧑‍💻 Founder: Kyle Rasmussen (Mr. K / Kydras)  
+📧 [kyle@kydras-systems-inc.com](mailto:kyle@kydras-systems-inc.com)  
+📞 (307) 293-9391  
+🌐 [kydras-systems-inc.com](https://kydras-systems-inc.com)  
+🐙 [github.com/Kydras8](https://github.com/Kydras8)  
+☕ [buymeacoffee.com/kydras](https://buymeacoffee.com/kydras)  
+🛒 [kydras.gumroad.com](https://kydras.gumroad.com)  
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -49,8 +69,6 @@ Explore the ecosystem of **AI + Security applications**:
 | **Kydras e-Book Studio** | Convert text into beautiful e-books with covers, templates, clean formatting. |
 | **Kydras Content Creator** | Generate high-quality marketing/blog/social content in seconds. |
 
-*(links will be wired as projects go live)*
-
 ---
 
 ## 🛡️ Vision & Ethos
@@ -65,14 +83,7 @@ We engineer **tools for operators** who need to see deeper, act faster, and buil
 
 ---
 
-## ⚡ Quick Links
-
-- 🌐 **[Live site](https://kydras8.github.io/)**
-- 🛒 **[Gumroad Store](https://kydras.gumroad.com)**
-- ☕ **[Buy Me a Coffee](https://buymeacoffee.com/kydras)**
-- 🐙 **[GitHub Profile](https://github.com/Kydras8)**
-
----
+## 🖥️ Hacker Vibe Preview
 
 ```ascii
    ██ ▄█▀   ▓██   ██▓ ▓█████▄  ██▀███   ▄▄▄       ██████ 
@@ -85,3 +96,49 @@ We engineer **tools for operators** who need to see deeper, act faster, and buil
   ░ ░░ ░     ▒ ▒ ░░    ░ ░  ░   ░░   ░   ░   ▒  ░  ░  ░  
   ░  ░       ░ ░         ░       ░           ░  ░     ░  
               ░ ░       ░                               
+<!-- Banner -->
+<table>
+<tr>
+<td width="160" align="center">
+  <!-- Replace with your actual logo URL -->
+  <img src="https://raw.githubusercontent.com/Kydras8/kydras8.github.io/main/assets/kydras-logo.png" width="140" alt="Kydras Systems Inc. Logo"/>
+</td>
+<td>
+
+# 👁️ Kydras Systems Inc.  
+
+**Build • Secure • Create**  
+Red Team–built, AI-powered lab creating the next generation of **security, intelligence, and creative tools**.  
+
+📍 Wyoming S-Corp  
+🧑‍💻 Founder: Kyle Rasmussen (Mr. K / Kydras)  
+📧 [kyle@kydras-systems-inc.com](mailto:kyle@kydras-systems-inc.com)  
+📞 (307) 293-9391  
+🌐 [kydras-systems-inc.com](https://kydras-systems-inc.com)  
+🐙 [github.com/Kydras8](https://github.com/Kydras8)  
+☕ [buymeacoffee.com/kydras](https://buymeacoffee.com/kydras)  
+🛒 [kydras.gumroad.com](https://kydras.gumroad.com)  
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- Badges -->
+<p align="center">
+  <a href="https://github.com/Kydras8/kydras8.github.io/stargazers">
+    <img src="https://img.shields.io/github/stars/Kydras8/kydras8.github.io?color=gold&style=for-the-badge" alt="Stars"/>
+  </a>
+  <a href="https://github.com/Kydras8/kydras8.github.io/issues">
+    <img src="https://img.shields.io/github/issues/Kydras8/kydras8.github.io?color=red&style=for-the-badge" alt="Issues"/>
+  </a>
+  <a href="https://github.com/Kydras8/kydras8.github.io/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/Kydras8/kydras8.github.io?style=for-the-badge&color=blue" alt="License"/>
+  </a>
+  <a href="https://github.com/Kydras8">
+    <img src="https://img.shields.io/badge/Maintainer-Kyle%20Rasmussen-black?style=for-the-badge&logo=github" alt="Maintainer"/>
+  </a>
+</p>
+
+---
