@@ -12,14 +12,6 @@
   ░  ░       ░ ░         ░       ░           ░  ░     ░  
               ░ ░       ░                               
 
-<table>
-<tr>
-<td width="160" align="center">
-  <!-- Replace with your actual logo URL -->
-  <img src="https://raw.githubusercontent.com/Kydras8/kydras8.github.io/main/assets/kydras-logo.png" width="140" alt="Kydras Systems Inc. Logo"/>
-</td>
-<td>
-
 # 👁️ Kydras Systems Inc.  
 
 **Build • Secure • Create**  
