@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kydras8/kydras8.github.io/main/assets/kydras-logo.png" width="140" alt="Kydras Systems Inc. Logo"/>
+  <img src="https://raw.githubusercontent.com/Kydras8/kydras8.github.io/main/assets/kydras-logo.png" width="160" alt="Kydras Systems Inc. Logo"/>
 </p>
 
 <h1 align="center">👁️ Kydras Systems Inc.</h1>
@@ -8,20 +8,20 @@
 
 ---
 
-## 📇 Corporate Info
-- 📍 Wyoming S-Corp  
-- 🧑‍💻 Founder: Kyle Rasmussen (Mr. K / Kydras)  
-- 📧 [kyle@kydras-systems-inc.com](mailto:kyle@kydras-systems-inc.com)  
-- 📞 (307) 293-9391  
-- 🌐 [kydras-systems-inc.com](https://kydras-systems-inc.com)  
-- 🐙 [github.com/Kydras8](https://github.com/Kydras8)  
-- ☕ [buymeacoffee.com/kydras](https://buymeacoffee.com/kydras)  
-- 🛒 [kydras.gumroad.com](https://kydras.gumroad.com)  
+### 📇 Company Info
+
+- 📍 **Wyoming S-Corp**  
+- 🧑‍💻 **Founder:** Kyle Rasmussen (Mr. K / Kydras)  
+- 📧 **Email:** [kyle@kydras-systems-inc.com](mailto:kyle@kydras-systems-inc.com)  
+- 📞 **Phone:** (307) 293-9391  
+- 🌐 **Website:** [kydras-systems-inc.com](https://kydras-systems-inc.com)  
+- 🐙 **GitHub:** [github.com/Kydras8](https://github.com/Kydras8)  
+- ☕ **Buy Me a Coffee:** [buymeacoffee.com/kydras](https://buymeacoffee.com/kydras)  
+- 🛒 **Gumroad:** [kydras.gumroad.com](https://kydras.gumroad.com)  
 
 ---
 
-## 🌌 The Kydras App Suite
-Explore the ecosystem of **AI + Security applications**:
+### 📊 The Kydras App Suite
 
 | App | Description |
 |-----|-------------|
@@ -45,7 +45,8 @@ Explore the ecosystem of **AI + Security applications**:
 
 ---
 
-## 🛡️ Vision & Ethos
+### 🛡️ Vision & Ethos
+
 🔒 **Secure by design** — red team roots, hacker-grade quality.  
 ⚡ **AI everywhere** — accelerate workflows with intelligent automation.  
 🎨 **Creative unleashed** — music, books, content, marketing, all powered by AI.  
@@ -56,7 +57,8 @@ We engineer **tools for operators** who need to see deeper, act faster, and buil
 
 ---
 
-## 🖥️ Hacker Vibe
+### 🖥️ Hacker Vibe
+
 ```ascii
    ██ ▄█▀   ▓██   ██▓ ▓█████▄  ██▀███   ▄▄▄       ██████ 
    ██▄█▒     ▒██  ██▒ ▒██▀ ██▌▓██ ▒ ██▒▒████▄   ▒██    ▒ 
@@ -68,4 +70,3 @@ We engineer **tools for operators** who need to see deeper, act faster, and buil
   ░ ░░ ░     ▒ ▒ ░░    ░ ░  ░   ░░   ░   ░   ▒  ░  ░  ░  
   ░  ░       ░ ░         ░       ░           ░  ░     ░  
               ░ ░       ░                               
-
