@@ -1,104 +1,89 @@
-<!-- Kydras8 Profile README -->
-
+<!-- Banner -->
+<h1 align="center">👁️ Kydras Systems Inc.</h1>
 <p align="center">
-  <!-- Replace with your own banner image if you commit one -->
-  <img src="./assets/kydras-banner.png" alt="Kydras Systems — Nothing Is Off Limits" width="100%" />
+  <strong>Build • Secure • Create</strong><br>
+  Red Team–built, AI-powered lab creating the next generation of <em>security, intelligence, and creative tools</em>.
 </p>
 
-<h1 align="center">⚡ Kydras Systems — NOTHING IS OFF LIMITS ⚡</h1>
+---
+
+<!-- Badges -->
 <p align="center">
-  <a href="https://gofund.me/7d85cda2"><img alt="Fund Kydras" src="https://img.shields.io/badge/Fund%20Kydras-$1,000%20Goal-00e676?style=for-the-badge&logo=go-fund-me&logoColor=white"></a>
-  <a href="https://github.com/Kydras8?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Repos-Explore-00bcd4?style=for-the-badge&logo=github"></a>
-  <a href="https://github.com/Kydras8"><img alt="Followers" src="https://img.shields.io/github/followers/Kydras8?style=for-the-badge"></a>
-</p>
-
-> Independent dev • Red Team / OSINT • Building an ecosystem of cyber tools for real-world ops and learning.
-
----
-
-## 🚀 What I’m Building
-- **Kydras Echo** — AI-assisted transcription & analysis for investigations and research  
-- **Kydras Suite / Total War Pack** — offensive automation, payload craft, workflow playbooks  
-- **Kydras Push** — content distribution + subscription platform to grow the Kydras network
-
-> 🛠 Mission: make powerful security tooling **accessible, affordable, and practical**.
-
----
-
-## 💚 Support the Mission
-Keeping the platform online + scaling integrations costs **$480/yr**.  
-I set a **$1,000 GoFundMe** to cover infra + fees and keep releases flowing.
-
-🔗 **Fund Kydras:** https://gofund.me/7d85cda2
-
-**Perks**
-- $10+ Early feature access  
-- $25+ Credits in repo README  
-- $50+ Priority beta invites  
-- $100+ Private dev channel sneak peeks
-
----
-
-## 🧰 Tech & Tools
-**Languages:** Python, Bash, JavaScript  
-**Stacks:** FastAPI, Flask, Node, SQLite/PostgreSQL  
-**Ops:** Kali, Docker, GitHub Actions, Linux networking  
-**Security:** Wi-Fi tooling, OSINT pipelines, red-team automation
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=00e676" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Kali-268BEE?logo=kalilinux&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
+  <a href="https://github.com/Kydras8/kydras8.github.io/stargazers">
+    <img src="https://img.shields.io/github/stars/Kydras8/kydras8.github.io?color=gold&style=for-the-badge" alt="Stars"/>
+  </a>
+  <a href="https://github.com/Kydras8/kydras8.github.io/issues">
+    <img src="https://img.shields.io/github/issues/Kydras8/kydras8.github.io?color=red&style=for-the-badge" alt="Issues"/>
+  </a>
+  <a href="https://github.com/Kydras8/kydras8.github.io/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/Kydras8/kydras8.github.io?style=for-the-badge&color=blue" alt="License"/>
+  </a>
+  <a href="https://github.com/Kydras8">
+    <img src="https://img.shields.io/badge/Maintainer-Kyle%20Rasmussen-black?style=for-the-badge&logo=github" alt="Maintainer"/>
+  </a>
 </p>
 
 ---
 
-## 📦 Featured Projects
-| Project | What it does | Links |
-|---|---|---|
-| **Kydras Echo** | AI transcription/analysis for podcasts, calls, and field notes | [Repo](https://github.com/Kydras8/KydrasEcho) |
-| **Kydras Suite** | Offensive tooling + automation + playbooks | [Repos](https://github.com/Kydras8?tab=repositories&q=Kydras) |
-| **Kydras OSINT** | Lightweight OSINT collection & enrichment pipelines | [Repo](https://github.com/Kydras8/Kydras-OSINT) |
-| **Mobile Pentest Kit** | Mobile-first pentest workflows, helpers, and scripts | [Repo](https://github.com/Kydras8/Kydras-Mobile-Pentest-Kit) |
-| **eBook Studio** | Turn notes/scripts into clean eBooks (lite/pro tiers) | [Repo](https://github.com/Kydras8/Kydras-eBook-Studio) |
+## 🌌 The Kydras App Suite
 
-> Want a quick demo screenshot? Check each repo’s README.
+Explore the ecosystem of **AI + Security applications**:
 
----
+| App | Description |
+|-----|-------------|
+| **Kydras Lab** | Build any app you can imagine with AI. Describe it → get blueprints, screens, data models, features. |
+| **Eyes of Kydras** | Advanced network visibility & control. Real-time packet analysis, IP intel, proactive detection. |
+| **Kydras Music Studio** | AI-powered music creation studio — lyrics, melodies, and full compositions in any genre. |
+| **Kydras Intelligence** | Unified OSINT platform for investigators — research, evidence management, reporting. |
+| **Kydras Total Marketing** | Autonomous growth engine — an AI agent that builds & optimizes full marketing campaigns. |
+| **Kydras Academy** | Hands-on cybersecurity training: challenges, labs, and structured learning paths. |
+| **Kydras Mint** | One-click amplification: share content across all socials & lists, analyze performance. |
+| **Kydras Financial** | Simple, intuitive business accounting. Invoices, expenses, cash flow, insights. |
+| **Kydras Builder** | Generate professional, SEO-optimized websites in minutes. |
+| **Kydras CyberMind** | Your AI cybersecurity assistant — pentesting, OSINT, DFIR, threat intel. |
+| **Kydras PDF** | PDFMaster AI — edit, organize, transform docs with seamless AI integration. |
+| **Kydras Sentinel** | Manage vulnerabilities, incidents, compliance, risk & training in one place. |
+| **Kydras Oracle** | Aura Oracle — AI-driven personalized insights for career, finance, life choices. |
+| **Kydras Trading Hub** | AI insights for crypto/forex charts: detect patterns, entry/exit recommendations. |
+| **Kydras Echo** | Audio/video transcription + summarization + AI content generation. |
+| **Kydras e-Book Studio** | Convert text into beautiful e-books with covers, templates, clean formatting. |
+| **Kydras Content Creator** | Generate high-quality marketing/blog/social content in seconds. |
 
-## 🗺️ 2025 Roadmap (high-level)
-- [ ] Echo: URL ingest, diarization, redaction helpers
-- [ ] Suite: batch ops, queue runner, templated payloads
-- [ ] Push: campaign scheduler + analytics
-- [ ] CI: one-line installer, auto-packaging, signed releases
-
----
-
-## 📈 Activity & Stats
-<p>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kydras8&show_icons=true&theme=radical" />
-</p>
-<p>
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kydras8&layout=compact&theme=radical" />
-</p>
+*(links will be wired as projects go live)*
 
 ---
 
-## 🔗 Connect
-- GoFundMe: **https://gofund.me/7d85cda2**
-- GitHub: https://github.com/Kydras8
-- (Optional) Website/Blog: https://kydras8.github.io
-- LinkedIn: www.linkedin.com/in/kydras-systems
+## 🛡️ Vision & Ethos
 
-> **Signal boost helps** — a star, share, or small donation keeps the lights on.
+🔒 **Secure by design** — red team roots, hacker-grade quality.  
+⚡ **AI everywhere** — accelerate workflows with intelligent automation.  
+🎨 **Creative unleashed** — music, books, content, marketing, all powered by AI.  
+
+> *“Build it, break it, rebuild it stronger.”*
+
+We engineer **tools for operators** who need to see deeper, act faster, and build smarter.
 
 ---
 
-<p align="center">
-  <!-- Replace with your logo if committed -->
-  <img src="./assets/kydras-logo.png" alt="Kydras Logo" width="90" />
-  <br/>
-  <i>“Nothing Is Off Limits.”</i>
-</p>
+## ⚡ Quick Links
+
+- 🌐 **[Live site](https://kydras8.github.io/)**
+- 🛒 **[Gumroad Store](https://kydras.gumroad.com)**
+- ☕ **[Buy Me a Coffee](https://buymeacoffee.com/kydras)**
+- 🐙 **[GitHub Profile](https://github.com/Kydras8)**
+
+---
+
+## 🖥️ Hacker Vibe Preview
+
+```ascii
+   ██ ▄█▀   ▓██   ██▓ ▓█████▄  ██▀███   ▄▄▄       ██████ 
+   ██▄█▒     ▒██  ██▒ ▒██▀ ██▌▓██ ▒ ██▒▒████▄   ▒██    ▒ 
+  ▓███▄░      ▒██ ██░ ░██   █▌▓██ ░▄█ ▒▒██  ▀█▄ ░ ▓██▄   
+  ▓██ █▄      ░ ▐██▓░ ░▓█▄   ▌▒██▀▀█▄  ░██▄▄▄▄██  ▒   ██▒
+  ▒██▒ █▄     ░ ██▒▓░ ░▒████▓ ░██▓ ▒██▒ ▓█   ▓██▒██████▒▒
+  ▒ ▒▒ ▓▒      ██▒▒▒   ▒▒▓  ▒ ░ ▒▓ ░▒▓░ ▒▒   ▓▒█▒ ▒▓▒ ▒ ░
+  ░ ░▒ ▒░    ▓██ ░▒░   ░ ▒  ▒   ░▒ ░ ▒░  ▒   ▒▒ ░ ░▒  ░ ░
+  ░ ░░ ░     ▒ ▒ ░░    ░ ░  ░   ░░   ░   ░   ▒  ░  ░  ░  
+  ░  ░       ░ ░         ░       ░           ░  ░     ░  
+              ░ ░       ░                               
