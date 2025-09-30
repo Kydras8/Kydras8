@@ -1,57 +1,26 @@
-<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kydras8/kydras8.github.io/main/assets/kydras-logo.png" width="140" alt="Kydras Systems Inc. Logo"/>
+</p>
 
-```ascii
-   ██ ▄█▀   ▓██   ██▓ ▓█████▄  ██▀███   ▄▄▄       ██████ 
-   ██▄█▒     ▒██  ██▒ ▒██▀ ██▌▓██ ▒ ██▒▒████▄   ▒██    ▒ 
-  ▓███▄░      ▒██ ██░ ░██   █▌▓██ ░▄█ ▒▒██  ▀█▄ ░ ▓██▄   
-  ▓██ █▄      ░ ▐██▓░ ░▓█▄   ▌▒██▀▀█▄  ░██▄▄▄▄██  ▒   ██▒
-  ▒██▒ █▄     ░ ██▒▓░ ░▒████▓ ░██▓ ▒██▒ ▓█   ▓██▒██████▒▒
-  ▒ ▒▒ ▓▒      ██▒▒▒   ▒▒▓  ▒ ░ ▒▓ ░▒▓░ ▒▒   ▓▒█▒ ▒▓▒ ▒ ░
-  ░ ░▒ ▒░    ▓██ ░▒░   ░ ▒  ▒   ░▒ ░ ▒░  ▒   ▒▒ ░ ░▒  ░ ░
-  ░ ░░ ░     ▒ ▒ ░░    ░ ░  ░   ░░   ░   ░   ▒  ░  ░  ░  
-  ░  ░       ░ ░         ░       ░           ░  ░     ░  
-              ░ ░       ░                               
-
-# 👁️ Kydras Systems Inc.  
-
-**Build • Secure • Create**  
-Red Team–built, AI-powered lab creating the next generation of **security, intelligence, and creative tools**.  
-
-📍 Wyoming S-Corp  
-🧑‍💻 Founder: Kyle Rasmussen (Mr. K / Kydras)  
-📧 [kyle@kydras-systems-inc.com](mailto:kyle@kydras-systems-inc.com)  
-📞 (307) 293-9391  
-🌐 [kydras-systems-inc.com](https://kydras-systems-inc.com)  
-🐙 [github.com/Kydras8](https://github.com/Kydras8)  
-☕ [buymeacoffee.com/kydras](https://buymeacoffee.com/kydras)  
-🛒 [kydras.gumroad.com](https://kydras.gumroad.com)  
-
-</td>
-</tr>
-</table>
+<h1 align="center">👁️ Kydras Systems Inc.</h1>
+<p align="center"><strong>Build • Secure • Create</strong></p>
+<p align="center">Red Team–built, AI-powered lab creating the next generation of <em>security, intelligence, and creative tools</em>.</p>
 
 ---
 
-<!-- Badges -->
-<p align="center">
-  <a href="https://github.com/Kydras8/kydras8.github.io/stargazers">
-    <img src="https://img.shields.io/github/stars/Kydras8/kydras8.github.io?color=gold&style=for-the-badge" alt="Stars"/>
-  </a>
-  <a href="https://github.com/Kydras8/kydras8.github.io/issues">
-    <img src="https://img.shields.io/github/issues/Kydras8/kydras8.github.io?color=red&style=for-the-badge" alt="Issues"/>
-  </a>
-  <a href="https://github.com/Kydras8/kydras8.github.io/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/Kydras8/kydras8.github.io?style=for-the-badge&color=blue" alt="License"/>
-  </a>
-  <a href="https://github.com/Kydras8">
-    <img src="https://img.shields.io/badge/Maintainer-Kyle%20Rasmussen-black?style=for-the-badge&logo=github" alt="Maintainer"/>
-  </a>
-</p>
+## 📇 Corporate Info
+- 📍 Wyoming S-Corp  
+- 🧑‍💻 Founder: Kyle Rasmussen (Mr. K / Kydras)  
+- 📧 [kyle@kydras-systems-inc.com](mailto:kyle@kydras-systems-inc.com)  
+- 📞 (307) 293-9391  
+- 🌐 [kydras-systems-inc.com](https://kydras-systems-inc.com)  
+- 🐙 [github.com/Kydras8](https://github.com/Kydras8)  
+- ☕ [buymeacoffee.com/kydras](https://buymeacoffee.com/kydras)  
+- 🛒 [kydras.gumroad.com](https://kydras.gumroad.com)  
 
 ---
 
 ## 🌌 The Kydras App Suite
-
 Explore the ecosystem of **AI + Security applications**:
 
 | App | Description |
@@ -77,7 +46,6 @@ Explore the ecosystem of **AI + Security applications**:
 ---
 
 ## 🛡️ Vision & Ethos
-
 🔒 **Secure by design** — red team roots, hacker-grade quality.  
 ⚡ **AI everywhere** — accelerate workflows with intelligent automation.  
 🎨 **Creative unleashed** — music, books, content, marketing, all powered by AI.  
@@ -87,3 +55,16 @@ Explore the ecosystem of **AI + Security applications**:
 We engineer **tools for operators** who need to see deeper, act faster, and build smarter.
 
 ---
+
+## 🖥️ Hacker Vibe
+```ascii
+   ██ ▄█▀   ▓██   ██▓ ▓█████▄  ██▀███   ▄▄▄       ██████ 
+   ██▄█▒     ▒██  ██▒ ▒██▀ ██▌▓██ ▒ ██▒▒████▄   ▒██    ▒ 
+  ▓███▄░      ▒██ ██░ ░██   █▌▓██ ░▄█ ▒▒██  ▀█▄ ░ ▓██▄   
+  ▓██ █▄      ░ ▐██▓░ ░▓█▄   ▌▒██▀▀█▄  ░██▄▄▄▄██  ▒   ██▒
+  ▒██▒ █▄     ░ ██▒▓░ ░▒████▓ ░██▓ ▒██▒ ▓█   ▓██▒██████▒▒
+  ▒ ▒▒ ▓▒      ██▒▒▒   ▒▒▓  ▒ ░ ▒▓ ░▒▓░ ▒▒   ▓▒█▒ ▒▓▒ ▒ ░
+  ░ ░▒ ▒░    ▓██ ░▒░   ░ ▒  ▒   ░▒ ░ ▒░  ▒   ▒▒ ░ ░▒  ░ ░
+  ░ ░░ ░     ▒ ▒ ░░    ░ ░  ░   ░░   ░   ░   ▒  ░  ░  ░  
+  ░  ░       ░ ░         ░       ░           ░  ░     ░  
+              ░ ░       ░                               
