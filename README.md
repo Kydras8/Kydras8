@@ -15,7 +15,6 @@ Build • Secure • Create
 | 👥 ![Contrib](https://img.shields.io/badge/Contrib-Numbers-lightgrey?style=flat-square&logo=github) | Contributors Count |
 | 🏷️ ![Release](https://img.shields.io/badge/Release-v0.1.0-blue?style=flat-square&logo=github) | Latest Release |
 | ⏱️ ![Last Commit](https://img.shields.io/badge/LastCommit-Date-lightgrey?style=flat-square&logo=git) | Last Commit (relative + hover) |
-| ⏳ ![Last Release](https://img.shields.io/badge/LastRelease-Date-lightgrey?style=flat-square&logo=github) | Last Release (relative + hover) |
 | 📥 ![Download](https://img.shields.io/badge/Download-Latest-blue?style=flat-square&logo=github) | Latest Release Download |
 | 🚀 ![Demo](https://img.shields.io/badge/Demo-Live-green?style=flat-square&logo=google-chrome) | Live Web Demo |
 
@@ -38,7 +37,7 @@ Build • Secure • Create
 
 | Badge | Status |
 |---|---|
-| Repo | [Link](https://github.com/Kydras8/Kydras-Lab) ⚙️ ![CI](https://img.shields.io/github/actions/workflow/status/Kydras8/Kydras-Lab/ci.yml?style=flat-square&logo=githubactions&label=CI) 🐍 ![](https://img.shields.io/badge/-S-=flat-square&logo=python&logoColor=white&label=) 👥 ![Contrib](https://img.shields.io/badge/Contrib-0-lightgrey?style=flat-square&logo=github&label=Contrib) 🏷️ ![Release](https://img.shields.io/badge/Release-N/A-blue?style=flat-square&logo=github&label=Release&tooltip=Release:N/A) ⏱️ ![Last Commit](https://img.shields.io/badge/LastCommit-N/A-lightgrey?style=flat-square&logo=git&label=Last%20Commit&tooltip=Last%20commit:N/A) ⏳ ![Last Release](https://img.shields.io/badge/LastRelease-N/A-lightgrey?style=flat-square&logo=github&label=Last%20Release&tooltip=Published:N/A) 📥 [Download](https://github.com/Kydras8/Kydras-Lab/releases/latest) 🚀 [Demo](https://kydras8.github.io/Kydras-Lab/) |
+| Repo | [Link](https://github.com/Kydras8/Kydras-Lab) ⚙️ ![CI](https://img.shields.io/github/actions/workflow/status/Kydras8/Kydras-Lab/ci.yml?style=flat-square&logo=githubactions&label=CI) 🐍 ![](https://img.shields.io/badge/-S-=flat-square&logo=python&logoColor=white&label=) 👥 ![Contrib](https://img.shields.io/badge/Contrib-0-lightgrey?style=flat-square&logo=github&label=Contrib) 🏷️ ![Release](https://img.shields.io/badge/Release-N/A-blue?style=flat-square&logo=github&label=Release&tooltip=Release:N/A)  ⏱️ ![Last Commit](https://img.shields.io/badge/LastCommit-N/A-lightgrey?style=flat-square&logo=git&label=Last%20Commit&tooltip=Last%20commit:N/A) 📥 [Download](https://github.com/Kydras8/Kydras-Lab/releases/latest) 🚀 [Demo](https://kydras8.github.io/Kydras-Lab/) |
 
 </details>
 
@@ -47,7 +46,7 @@ Build • Secure • Create
 
 | Badge | Status |
 |---|---|
-| Repo | [Link](https://github.com/Kydras8/Eyes-of-Kydras) ⚙️ ![CI](https://img.shields.io/github/actions/workflow/status/Kydras8/Eyes-of-Kydras/ci.yml?style=flat-square&logo=githubactions&label=CI) 🐍 ![](https://img.shields.io/badge/-S-=flat-square&logo=python&logoColor=white&label=) 👥 ![Contrib](https://img.shields.io/badge/Contrib-0-lightgrey?style=flat-square&logo=github&label=Contrib) 🏷️ ![Release](https://img.shields.io/badge/Release-N/A-blue?style=flat-square&logo=github&label=Release&tooltip=Release:N/A) ⏱️ ![Last Commit](https://img.shields.io/badge/LastCommit-N/A-lightgrey?style=flat-square&logo=git&label=Last%20Commit&tooltip=Last%20commit:N/A) ⏳ ![Last Release](https://img.shields.io/badge/LastRelease-N/A-lightgrey?style=flat-square&logo=github&label=Last%20Release&tooltip=Published:N/A) 📥 [Download](https://github.com/Kydras8/Eyes-of-Kydras/releases/latest)  |
+| Repo | [Link](https://github.com/Kydras8/Eyes-of-Kydras) ⚙️ ![CI](https://img.shields.io/github/actions/workflow/status/Kydras8/Eyes-of-Kydras/ci.yml?style=flat-square&logo=githubactions&label=CI) 🐍 ![](https://img.shields.io/badge/-S-=flat-square&logo=python&logoColor=white&label=) 👥 ![Contrib](https://img.shields.io/badge/Contrib-0-lightgrey?style=flat-square&logo=github&label=Contrib) 🏷️ ![Release](https://img.shields.io/badge/Release-N/A-blue?style=flat-square&logo=github&label=Release&tooltip=Release:N/A)  ⏱️ ![Last Commit](https://img.shields.io/badge/LastCommit-N/A-lightgrey?style=flat-square&logo=git&label=Last%20Commit&tooltip=Last%20commit:N/A) 📥 [Download](https://github.com/Kydras8/Eyes-of-Kydras/releases/latest)  |
 
 </details>
 
@@ -56,7 +55,7 @@ Build • Secure • Create
 
 | Badge | Status |
 |---|---|
-| Repo | [Link](https://github.com/Kydras8/Kydras-Intelligence) ⚙️ ![CI](https://img.shields.io/github/actions/workflow/status/Kydras8/Kydras-Intelligence/ci.yml?style=flat-square&logo=githubactions&label=CI) 🐍 ![](https://img.shields.io/badge/-S-=flat-square&logo=python&logoColor=white&label=) 👥 ![Contrib](https://img.shields.io/badge/Contrib-0-lightgrey?style=flat-square&logo=github&label=Contrib) 🏷️ ![Release](https://img.shields.io/badge/Release-N/A-blue?style=flat-square&logo=github&label=Release&tooltip=Release:N/A) ⏱️ ![Last Commit](https://img.shields.io/badge/LastCommit-N/A-lightgrey?style=flat-square&logo=git&label=Last%20Commit&tooltip=Last%20commit:N/A) ⏳ ![Last Release](https://img.shields.io/badge/LastRelease-N/A-lightgrey?style=flat-square&logo=github&label=Last%20Release&tooltip=Published:N/A) 📥 [Download](https://github.com/Kydras8/Kydras-Intelligence/releases/latest)  |
+| Repo | [Link](https://github.com/Kydras8/Kydras-Intelligence) ⚙️ ![CI](https://img.shields.io/github/actions/workflow/status/Kydras8/Kydras-Intelligence/ci.yml?style=flat-square&logo=githubactions&label=CI) 🐍 ![](https://img.shields.io/badge/-S-=flat-square&logo=python&logoColor=white&label=) 👥 ![Contrib](https://img.shields.io/badge/Contrib-0-lightgrey?style=flat-square&logo=github&label=Contrib) 🏷️ ![Release](https://img.shields.io/badge/Release-N/A-blue?style=flat-square&logo=github&label=Release&tooltip=Release:N/A)  ⏱️ ![Last Commit](https://img.shields.io/badge/LastCommit-N/A-lightgrey?style=flat-square&logo=git&label=Last%20Commit&tooltip=Last%20commit:N/A) 📥 [Download](https://github.com/Kydras8/Kydras-Intelligence/releases/latest)  |
 
 </details>
 
@@ -65,7 +64,7 @@ Build • Secure • Create
 
 | Badge | Status |
 |---|---|
-| Repo | [Link](https://github.com/Kydras8/KydrasEcho) ⚙️ ![CI](https://img.shields.io/github/actions/workflow/status/Kydras8/KydrasEcho/ci.yml?style=flat-square&logo=githubactions&label=CI) 🐍 ![](https://img.shields.io/badge/-S-=flat-square&logo=python&logoColor=white&label=) 👥 ![Contrib](https://img.shields.io/badge/Contrib-0-lightgrey?style=flat-square&logo=github&label=Contrib) 🏷️ ![Release](https://img.shields.io/badge/Release-N/A-blue?style=flat-square&logo=github&label=Release&tooltip=Release:N/A) ⏱️ ![Last Commit](https://img.shields.io/badge/LastCommit-N/A-lightgrey?style=flat-square&logo=git&label=Last%20Commit&tooltip=Last%20commit:N/A) ⏳ ![Last Release](https://img.shields.io/badge/LastRelease-N/A-lightgrey?style=flat-square&logo=github&label=Last%20Release&tooltip=Published:N/A) 📥 [Download](https://github.com/Kydras8/KydrasEcho/releases/latest)  |
+| Repo | [Link](https://github.com/Kydras8/KydrasEcho) ⚙️ ![CI](https://img.shields.io/github/actions/workflow/status/Kydras8/KydrasEcho/ci.yml?style=flat-square&logo=githubactions&label=CI) 🐍 ![](https://img.shields.io/badge/-S-=flat-square&logo=python&logoColor=white&label=) 👥 ![Contrib](https://img.shields.io/badge/Contrib-0-lightgrey?style=flat-square&logo=github&label=Contrib) 🏷️ ![Release](https://img.shields.io/badge/Release-N/A-blue?style=flat-square&logo=github&label=Release&tooltip=Release:N/A)  ⏱️ ![Last Commit](https://img.shields.io/badge/LastCommit-N/A-lightgrey?style=flat-square&logo=git&label=Last%20Commit&tooltip=Last%20commit:N/A) 📥 [Download](https://github.com/Kydras8/KydrasEcho/releases/latest)  |
 
 </details>
 
@@ -74,7 +73,7 @@ Build • Secure • Create
 
 | Badge | Status |
 |---|---|
-| Repo | [Link](https://github.com/Kydras8/Kydras-eBook-Studio) ⚙️ ![CI](https://img.shields.io/github/actions/workflow/status/Kydras8/Kydras-eBook-Studio/ci.yml?style=flat-square&logo=githubactions&label=CI) 🐍 ![](https://img.shields.io/badge/-S-=flat-square&logo=python&logoColor=white&label=) 👥 ![Contrib](https://img.shields.io/badge/Contrib-0-lightgrey?style=flat-square&logo=github&label=Contrib) 🏷️ ![Release](https://img.shields.io/badge/Release-N/A-blue?style=flat-square&logo=github&label=Release&tooltip=Release:N/A) ⏱️ ![Last Commit](https://img.shields.io/badge/LastCommit-N/A-lightgrey?style=flat-square&logo=git&label=Last%20Commit&tooltip=Last%20commit:N/A) ⏳ ![Last Release](https://img.shields.io/badge/LastRelease-N/A-lightgrey?style=flat-square&logo=github&label=Last%20Release&tooltip=Published:N/A) 📥 [Download](https://github.com/Kydras8/Kydras-eBook-Studio/releases/latest)  |
+| Repo | [Link](https://github.com/Kydras8/Kydras-eBook-Studio) ⚙️ ![CI](https://img.shields.io/github/actions/workflow/status/Kydras8/Kydras-eBook-Studio/ci.yml?style=flat-square&logo=githubactions&label=CI) 🐍 ![](https://img.shields.io/badge/-S-=flat-square&logo=python&logoColor=white&label=) 👥 ![Contrib](https://img.shields.io/badge/Contrib-0-lightgrey?style=flat-square&logo=github&label=Contrib) 🏷️ ![Release](https://img.shields.io/badge/Release-N/A-blue?style=flat-square&logo=github&label=Release&tooltip=Release:N/A)  ⏱️ ![Last Commit](https://img.shields.io/badge/LastCommit-N/A-lightgrey?style=flat-square&logo=git&label=Last%20Commit&tooltip=Last%20commit:N/A) 📥 [Download](https://github.com/Kydras8/Kydras-eBook-Studio/releases/latest)  |
 
 </details>
 
@@ -83,7 +82,7 @@ Build • Secure • Create
 
 | Badge | Status |
 |---|---|
-| Repo | [Link](https://github.com/Kydras8/Kydras-Mobile-Pentest-Kit) ⚙️ ![CI](https://img.shields.io/github/actions/workflow/status/Kydras8/Kydras-Mobile-Pentest-Kit/ci.yml?style=flat-square&logo=githubactions&label=CI) 💻 ![](https://img.shields.io/badge/-S-=flat-square&logo=gnu-bash&logoColor=white&label=) 👥 ![Contrib](https://img.shields.io/badge/Contrib-0-lightgrey?style=flat-square&logo=github&label=Contrib) 🏷️ ![Release](https://img.shields.io/badge/Release-N/A-blue?style=flat-square&logo=github&label=Release&tooltip=Release:N/A) ⏱️ ![Last Commit](https://img.shields.io/badge/LastCommit-N/A-lightgrey?style=flat-square&logo=git&label=Last%20Commit&tooltip=Last%20commit:N/A) ⏳ ![Last Release](https://img.shields.io/badge/LastRelease-N/A-lightgrey?style=flat-square&logo=github&label=Last%20Release&tooltip=Published:N/A) 📥 [Download](https://github.com/Kydras8/Kydras-Mobile-Pentest-Kit/releases/latest)  |
+| Repo | [Link](https://github.com/Kydras8/Kydras-Mobile-Pentest-Kit) ⚙️ ![CI](https://img.shields.io/github/actions/workflow/status/Kydras8/Kydras-Mobile-Pentest-Kit/ci.yml?style=flat-square&logo=githubactions&label=CI) 💻 ![](https://img.shields.io/badge/-S-=flat-square&logo=gnu-bash&logoColor=white&label=) 👥 ![Contrib](https://img.shields.io/badge/Contrib-0-lightgrey?style=flat-square&logo=github&label=Contrib) 🏷️ ![Release](https://img.shields.io/badge/Release-N/A-blue?style=flat-square&logo=github&label=Release&tooltip=Release:N/A)  ⏱️ ![Last Commit](https://img.shields.io/badge/LastCommit-N/A-lightgrey?style=flat-square&logo=git&label=Last%20Commit&tooltip=Last%20commit:N/A) 📥 [Download](https://github.com/Kydras8/Kydras-Mobile-Pentest-Kit/releases/latest)  |
 
 </details>
 
@@ -92,6 +91,6 @@ Build • Secure • Create
 
 | Badge | Status |
 |---|---|
-| Repo | [Link](https://github.com/Kydras8/Kydras-Builder) ⚙️ ![CI](https://img.shields.io/github/actions/workflow/status/Kydras8/Kydras-Builder/ci.yml?style=flat-square&logo=githubactions&label=CI) 🌐 ![](https://img.shields.io/badge/-S-=flat-square&logo=html5&logoColor=white&label=) 👥 ![Contrib](https://img.shields.io/badge/Contrib-0-lightgrey?style=flat-square&logo=github&label=Contrib) 🏷️ ![Release](https://img.shields.io/badge/Release-N/A-blue?style=flat-square&logo=github&label=Release&tooltip=Release:N/A) ⏱️ ![Last Commit](https://img.shields.io/badge/LastCommit-N/A-lightgrey?style=flat-square&logo=git&label=Last%20Commit&tooltip=Last%20commit:N/A) ⏳ ![Last Release](https://img.shields.io/badge/LastRelease-N/A-lightgrey?style=flat-square&logo=github&label=Last%20Release&tooltip=Published:N/A) 📥 [Download](https://github.com/Kydras8/Kydras-Builder/releases/latest) 🚀 [Demo](https://kydras8.github.io/Kydras-Builder/) |
+| Repo | [Link](https://github.com/Kydras8/Kydras-Builder) ⚙️ ![CI](https://img.shields.io/github/actions/workflow/status/Kydras8/Kydras-Builder/ci.yml?style=flat-square&logo=githubactions&label=CI) 🌐 ![](https://img.shields.io/badge/-S-=flat-square&logo=html5&logoColor=white&label=) 👥 ![Contrib](https://img.shields.io/badge/Contrib-0-lightgrey?style=flat-square&logo=github&label=Contrib) 🏷️ ![Release](https://img.shields.io/badge/Release-N/A-blue?style=flat-square&logo=github&label=Release&tooltip=Release:N/A)  ⏱️ ![Last Commit](https://img.shields.io/badge/LastCommit-N/A-lightgrey?style=flat-square&logo=git&label=Last%20Commit&tooltip=Last%20commit:N/A) 📥 [Download](https://github.com/Kydras8/Kydras-Builder/releases/latest) 🚀 [Demo](https://kydras8.github.io/Kydras-Builder/) |
 
 </details>
