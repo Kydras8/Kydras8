@@ -8,15 +8,16 @@ Build • Secure • Create
 ## 🏷️ Badge Legend
 | Badge | Meaning |
 |---|---|
-| ⚙️ ![CI](https://img.shields.io/badge/CI-Status-lightgrey?style=flat-square&logo=githubactions) | CI Workflow |
-| 🐍 ![Python](https://img.shields.io/badge/Python-S-blue?style=flat-square&logo=python) | Python Scripts |
-| 💻 ![Bash](https://img.shields.io/badge/Bash-S-green?style=flat-square&logo=gnu-bash) | Bash Scripts |
-| 🌐 ![HTML](https://img.shields.io/badge/HTML-S-orange?style=flat-square&logo=html5) | HTML/Frontend |
-| 👥 ![Contrib](https://img.shields.io/badge/Contrib-Numbers-lightgrey?style=flat-square&logo=github) | Contributors Count |
-| 🏷️ ![Release](https://img.shields.io/badge/Release-v0.1.0-blue?style=flat-square&logo=github) | Latest Release |
-| ⏱️ ![Last Commit](https://img.shields.io/badge/LastCommit-Date-lightgrey?style=flat-square&logo=git) | Last Commit (relative + hover) |
-| 📥 ![Download](https://img.shields.io/badge/Download-Latest-blue?style=flat-square&logo=github) | Latest Release Download |
-| 🚀 ![Demo](https://img.shields.io/badge/Demo-Live-green?style=flat-square&logo=google-chrome) | Live Web Demo |
+| ⚙️ CI | CI Workflow |
+| 🐍 Python | Python Scripts |
+| 💻 Bash | Bash Scripts |
+| 🌐 HTML | HTML/Frontend |
+| 👥 Contrib | Contributors Count |
+| 🏷️ Release | Latest Release |
+| 🗓️ LastRelease | Relative Last Release |
+| ⏱️ Last Commit | Last Commit relative + hover |
+| 📥 Download | Latest Release Download |
+| 🚀 Demo | Live Web Demo |
 
 ---
 
