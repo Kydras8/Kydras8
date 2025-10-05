@@ -1,3 +1,6 @@
+<p align='center'>
+  <img src='assets/kydras-logo.png' alt='Kydras Systems Inc.' width='480'/>
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kydras8/kydras8.github.io/main/assets/kydras-banner.png?v=1"
        alt="Kydras Systems Inc. — Nothing is Off Limits" width="100%">
