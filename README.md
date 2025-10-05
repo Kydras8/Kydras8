@@ -2,8 +2,23 @@
   <img src='assets/kydras-logo.png' alt='Kydras Systems Inc.' width='480'/>
 </p>
 
-# Kydras Systems Inc. - Nothing is Off Limits
+# Kydras Systems Inc. — Nothing is Off Limits
 Build • Secure • Create
+
+## 🏷️ Badge Legend
+| Badge | Meaning |
+|---|---|
+| ![CI](https://img.shields.io/badge/CI-Status-lightgrey?style=flat-square&logo=githubactions) | Continuous Integration / Workflow Status |
+| ![Python](https://img.shields.io/badge/Python-S-blue?style=flat-square&logo=python) | Language / Script type |
+| ![Bash](https://img.shields.io/badge/Bash-S-green?style=flat-square&logo=gnu-bash) | Language / Script type |
+| ![HTML](https://img.shields.io/badge/HTML-S-orange?style=flat-square&logo=html5) | Language / Script type |
+| ![Contrib](https://img.shields.io/badge/Contrib-Numbers-lightgrey?style=flat-square&logo=github) | Number of Contributors |
+| ![Release](https://img.shields.io/badge/Release-v0.1.0-blue?style=flat-square&logo=github) | Latest Release / Version |
+| ![Last Commit](https://img.shields.io/badge/Last_Commit-Date-lightgrey?style=flat-square&logo=git) | Last Commit Date |
+| ![Download](https://img.shields.io/badge/Download-Latest-blue?style=flat-square&logo=github) | Latest Release Download |
+| ![Demo](https://img.shields.io/badge/Demo-Live-green?style=flat-square&logo=google-chrome) | Live Web Demo |
+
+---
 
 ## Contact & Links
 - Website: https://kydras-systems-inc.com
