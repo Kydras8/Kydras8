@@ -1,3 +1,11 @@
+<!-- Kydras Repo Header -->
+<p align="center">
+  <strong>Kydras Systems Inc.</strong><br/>
+  <em>Nothing is off limits.</em>
+</p>
+
+---
+
 <p align='center'>
   <img src='assets/kydras-logo.png' alt='Kydras Systems Inc.' width='480'/>
 </p>
@@ -830,3 +838,4 @@ build smarter.
 
 </details>
 </details>
+
